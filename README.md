@@ -14,9 +14,8 @@ El objetivo principal del tablero de Órdenes PAL es gestionar de forma integral
 
 ##  
 Tecnologías Utilizadas 
-- **Power BI Desktop** (*[modo de conexión: Import / DirectQuery]*)
-- - **[Fuente de datos, ej. SharePoint / SQL Server / SAP / Excel]**
-- - **DAX** (*[tipo de cálculos: medidas de forecast, métricas de calidad, etc.]*)
+- **Power BI Desktop** (Import)
+- - **SAP / Excel**
 - - **GitHub** (para control de versiones y documentación técnica)   --- 
 ##  
 Estructura del Repositorio 
