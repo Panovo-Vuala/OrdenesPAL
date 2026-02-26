@@ -40,4 +40,4 @@ Estructura del Repositorio
 --- 
 ##  
 Preview del Dashboard 
-![Preview](img/preview_dashboard.png)
+![Preview](Img/preview_dashboard.png)
