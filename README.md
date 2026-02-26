@@ -34,6 +34,5 @@ OrdenesPAL/
 ```
 
 --- 
-##  
-Preview del Dashboard 
+##  Preview del Dashboard 
 ![Preview](Img/preview_dashboard.png)
