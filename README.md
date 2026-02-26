@@ -1,11 +1,15 @@
 #  
 Dashboard Ordenes PAL - Power BI 
 Documentación técnica de la herramienta Ordenes PAL
+
 --- 
+
 ##  
 Objetivo 
 El objetivo principal del tablero de Órdenes PAL es gestionar de forma integral el ciclo de vida de las órdenes de fabricación, desde su apertura hasta su cierre técnico y liquidación, asegurando control operativo, trazabilidad y cumplimiento del plan de producción.
+
 --- 
+
 ##  
 Tecnologías Utilizadas 
 - **Power BI Desktop** (*[modo de conexión: Import / DirectQuery]*)
@@ -16,30 +20,20 @@ Tecnologías Utilizadas
 Estructura del Repositorio 
 ```plaintext 
 [Nombre_Repositorio]/ 
-├── pbix/                                   
-├── README.md                               
+├── pbix/               → Archivos PBIX del tablero                     
+├── README.md           → Descripción general del repositorio                     
 ├── docs/ 
-│   
-├── Medidas.md                          
-│   
-│   
-│   
-├── Columnas_Calculadas.md              
-├── Tablas_Calculadas.md                
-└── video_tutorial.md                   
+├── Medidas.md                   → Medidas DAX documentadas                          
+├── Columnas_Calculadas.md       → Columnas calculadas documentadas        
+├── Tablas_Calculadas.md         → Tablas calculadas documentadas        
+└── video_tutorial.md            → Guía de uso del dashboard        
 ├── img/ 
+│ 
+├── preview_dashboard.png        → Captura del dashboard        
 │   
-├── preview_dashboard.png               
-│   
-└── modelo_datos.png                    
-→ Archivos PBIX del tablero 
-→ Descripción general del repositorio 
-→ Medidas DAX documentadas 
-→ Columnas calculadas documentadas 
-→ Tablas calculadas documentadas 
-→ Guía de uso del dashboard 
-→ Captura del dashboard 
-→ Relación entre tablas 
+└── modelo_datos.png             → Relación entre tablas 
+       
+
 ```
 
 --- 
